@@ -91,7 +91,7 @@
 <h4>🔧 Visualization and Analysis Tools</h4>
 <p>Comprehensive notebooks and utilities created for research visualization and theoretical analysis</p>
 <a href="https://github.com/orgs/ai-vis-theory/repositories">
-<img src="https://img.shields.io/badge/View%20Repos-8B5CF6?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -107,14 +107,14 @@
 <h4>🎨 Agent DAG Builder - Frontend</h4>
 <p>Drag & Drop Agentic Graph Builder with intuitive UI</p>
 <a href="https://github.com/DEBASMITROY2002/agent-dag-frontend">
-<img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="50%">
 <h4>⚙️ Agent DAG Builder - Backend</h4>
 <p>Backend orchestration system for multi-agent workflows</p>
 <a href="https://github.com/ddruk-landing-zone-0/agent-dag-builder">
-<img src="https://img.shields.io/badge/View%20Repo-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -130,30 +130,30 @@
 <h4>💬 Review Analysis Engine & AI CRM</h4>
 <p>Real-time review processing with AI-powered customer relationship management</p>
 <a href="https://github.com/orgs/devrev-elasticSearch/repositories">
-<img src="https://img.shields.io/badge/View%20Repos-FF6B6B?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="50%">
 <h4>📺 Multimodal Ad Generation</h4>
 <p>End-to-end advertisement generation based on customer behavior using GenAI</p>
 <a href="https://github.com/orgs/elastic-openserve/repositories">
-<img src="https://img.shields.io/badge/View%20Repos-00D9FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h4>📱 Smartwatch Travel App</h4>
-<p>Integrated health and location data to optimize travel journey</p>
+<p>Multi Agentic Integrated health and location data to optimize travel journey Analyzing signals and texts</p>
 <a href="https://github.com/orgs/fsqhack/repositories">
-<img src="https://img.shields.io/badge/View%20Repos-34A853?style=for-the-badge&logo=google-fit&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="50%">
 <h4>🛡️ SafeGuard</h4>
 <p>Compliance-driven LLM platform using regulation-to-knowledge-graph conversion</p>
 <a href="https://github.com/orgs/knacktohack314/repositories">
-<img src="https://img.shields.io/badge/View%20Repos-5865F2?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -161,6 +161,56 @@
 <td width="50%">
 <h4>🌍 CO2 Emission Tracker</h4>
 <p>Multi-agent solution for real-time CO2 tracking and sustainable code optimization</p>
+<a href="https://github.com/orgs/med-tech-solution/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>🛒 Retail Video Analytics</h4>
+<p>Real-time product tracking with Apriori-based placement recommendations with optimised Object Detection</p>
+<a href="https://github.com/orgs/nxhackathon/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>🎮 Esports Manager for Valorant</h4>
+<p>Analytics engine processing terabytes of real-time game data</p>
+<a href="https://github.com/orgs/VCT-Hacks/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>👔 Virtual Try-On</h4>
+<p>Fashion tech solution built on Flipkart data</p>
+<a href="https://github.com/FashionGridSolution/solution">
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>🏥 MedHelp.ai</h4>
+<p>Multimodal clinical chatbot using RAG for medical assistance</p>
+<a href="https://github.com/DEBASMITROY2002/MedHelp.ai_bpit">
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>🏅 ISI DataFest 2023 Winner</h4>
+<p>Winning solution for Kaggle ML competition</p>
+<a href="https://github.com/DEBASMITROY2002/ISI-DataFest-Integration-2023-ML-Hackathon">
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>📊 Data Quality Microservices</h4>
+<p>Microservice architecture to assess data quality from multiple streams</p>
+<a href="https://github.com/ddruk-landing-zone-0/data-quality">
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>ion</p>
 <a href="https://github.com/orgs/med-tech-solution/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-10B981?style=for-the-badge&logo=leaflet&logoColor=white"/>
 </a>
