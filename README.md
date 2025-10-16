@@ -53,97 +53,203 @@
 
 ---
 
-## 📚 Research Publications
+## 📂 Featured Repositories
+
+### 🔬 Research
+
+<table>
+<tr>
+<td width="33%">
+<h4>📄 Margin Aware Adaptive Loss</h4>
+<p><i>IEEE Trans. on AI, 2023</i></p>
+<a href="https://github.com/DEBASMITROY2002/Margin-Aware-Adaptive-Weighted-Loss">
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="33%">
+<h4>🩺 BIIGMA-Net</h4>
+<p><i>MICCAI, 2025</i></p>
+<p>Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification</p>
+<a href="https://github.com/DEBASMITROY2002/BIIGMA-Net">
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+<td width="33%">
+<h4>🧬 mhga-U-Net</h4>
+<p><i>ICONIP, 2024</i></p>
+<p>Multi-Headed Graph-based Attention-aided U-Net for Nuclei Segmentation</p>
+<a href="https://github.com/DEBASMITROY2002/mhga-U-Net">
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![AI Visualization Tools](https://img.shields.io/badge/🔧%20AI%20Visualization%20%26%20Analysis%20Tools-8B5CF6?style=for-the-badge)](https://github.com/orgs/ai-vis-theory/repositories)
+
+</div>
+
+---
+
+### 🤖 LLM & Agents
 
 <table>
 <tr>
 <td width="50%">
-
-### 🔬 Medical AI & Computer Vision
-
-- **[Margin Aware Adaptively Weighted Loss](https://github.com/DEBASMITROY2002/Margin-Aware-Adaptive-Weighted-Loss)**  
-  📄 *IEEE Trans. on AI, 2023*
-
-- **[BIIGMA-Net](https://github.com/DEBASMITROY2002/BIIGMA-Net)**  
-  📄 *MICCAI, 2025* - Skin Lesion Classification
-
-- **[mhga-U-Net](https://github.com/DEBASMITROY2002/mhga-U-Net)**  
-  📄 *ICONIP, 2024* - Nuclei Segmentation
-
+<h4>🎨 Agent DAG Builder - Frontend</h4>
+<p>Drag & Drop Agentic Graph Builder with intuitive UI</p>
+<a href="https://github.com/DEBASMITROY2002/agent-dag-frontend">
+<img src="https://img.shields.io/badge/View%20Repo-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
 </td>
 <td width="50%">
-
-### 📊 Visualization Tools
-
-- **[AI Visualization & Theory](https://github.com/orgs/ai-vis-theory/repositories)**  
-  🔧 Research notebooks and analysis tools
-
+<h4>⚙️ Agent DAG Builder - Backend</h4>
+<p>Backend orchestration system for multi-agent workflows</p>
+<a href="https://github.com/ddruk-landing-zone-0/agent-dag-builder">
+<img src="https://img.shields.io/badge/View%20Repo-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</a>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🤖 LLM & Agents
+### 🏆 Hackathons & Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎨 [Agent DAG Frontend](https://github.com/DEBASMITROY2002/agent-dag-frontend) | Drag & Drop Agentic Graph Builder UI |
-| ⚙️ [Agent DAG Backend](https://github.com/ddruk-landing-zone-0/agent-dag-builder) | Backend orchestration for agent workflows |
+<table>
+<tr>
+<td width="50%">
+<h4>💬 Review Analysis Engine & AI CRM</h4>
+<p>Real-time review processing with AI-powered customer relationship management</p>
+<a href="https://github.com/orgs/devrev-elasticSearch/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-FF6B6B?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>📺 Multimodal Ad Generation</h4>
+<p>End-to-end advertisement generation based on customer behavior using GenAI</p>
+<a href="https://github.com/orgs/elastic-openserve/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-00D9FF?style=for-the-badge&logo=openai&logoColor=black"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>📱 Smartwatch Travel App</h4>
+<p>Integrated health and location data to optimize travel journey</p>
+<a href="https://github.com/orgs/fsqhack/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-34A853?style=for-the-badge&logo=google-fit&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>🛡️ SafeGuard</h4>
+<p>Compliance-driven LLM platform using regulation-to-knowledge-graph conversion</p>
+<a href="https://github.com/orgs/knacktohack314/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-5865F2?style=for-the-badge&logo=security&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>🌍 CO2 Emission Tracker</h4>
+<p>Multi-agent solution for real-time CO2 tracking and sustainable code optimization</p>
+<a href="https://github.com/orgs/med-tech-solution/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-10B981?style=for-the-badge&logo=leaflet&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>🛒 Retail Video Analytics</h4>
+<p>Real-time product tracking with Apriori-based placement recommendations</p>
+<a href="https://github.com/orgs/nxhackathon/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>🎮 Esports Manager for Valorant</h4>
+<p>Analytics engine processing terabytes of real-time game data</p>
+<a href="https://github.com/orgs/VCT-Hacks/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-FF4655?style=for-the-badge&logo=valorant&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>👔 Virtual Try-On</h4>
+<p>Fashion tech solution built on Flipkart data</p>
+<a href="https://github.com/FashionGridSolution/solution">
+<img src="https://img.shields.io/badge/View%20Repo-F5C400?style=for-the-badge&logo=flipkart&logoColor=black"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>🏥 MedHelp.ai</h4>
+<p>Multimodal clinical chatbot using RAG for medical assistance</p>
+<a href="https://github.com/DEBASMITROY2002/MedHelp.ai_bpit">
+<img src="https://img.shields.io/badge/View%20Repo-DC143C?style=for-the-badge&logo=healthcare&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>🏅 ISI DataFest 2023 Winner</h4>
+<p>Winning solution for Kaggle ML competition</p>
+<a href="https://github.com/DEBASMITROY2002/ISI-DataFest-Integration-2023-ML-Hackathon">
+<img src="https://img.shields.io/badge/View%20Repo-FFD700?style=for-the-badge&logo=kaggle&logoColor=black"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>📊 Data Quality Microservices</h4>
+<p>Microservice architecture to assess data quality from multiple streams</p>
+<a href="https://github.com/ddruk-landing-zone-0/data-quality">
+<img src="https://img.shields.io/badge/View%20Repo-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Hackathons & Projects
+### 🧮 Algorithms & Theory
 
-<details>
-<summary>🔥 <b>AI & GenAI Solutions</b></summary>
-
-- 💬 **[Review Analysis Engine](https://github.com/orgs/devrev-elasticSearch/repositories)** - Real-time CRM with AI
-- 📺 **[Multimodal Ad Generation](https://github.com/orgs/elastic-openserve/repositories)** - Customer behavior-driven ads
-- 🏥 **[MedHelp.ai](https://github.com/DEBASMITROY2002/MedHelp.ai_bpit)** - Multimodal Clinical Chatbot with RAG
-- 🛡️ **[SafeGuard](https://github.com/orgs/knacktohack314/repositories)** - Compliance-driven LLM platform
-
-</details>
-
-<details>
-<summary>⚡ <b>Cloud & DevOps</b></summary>
-
-- 🌍 **[CO2 Emission Tracker](https://github.com/orgs/med-tech-solution/repositories)** - Multi-agent sustainable code optimization
-- 📊 **[Data Quality Microservices](https://github.com/ddruk-landing-zone-0/data-quality)** - Multi-stream assessment architecture
-
-</details>
-
-<details>
-<summary>🎮 <b>Analytics & Computer Vision</b></summary>
-
-- 🛒 **[Retail Video Analytics](https://github.com/orgs/nxhackathon/repositories)** - Product tracking & placement recommendations
-- 🎯 **[Esports Manager](https://github.com/orgs/VCT-Hacks/repositories)** - Valorant game data analytics
-- 👔 **[Virtual Try-On](https://github.com/FashionGridSolution/solution)** - Flipkart fashion tech
-- 📱 **[Smartwatch Travel App](https://github.com/orgs/fsqhack/repositories)** - Health & location integration
-
-</details>
-
-<details>
-<summary>🏅 <b>Competition Wins</b></summary>
-
-- 🥇 **[ISI DataFest 2023](https://github.com/DEBASMITROY2002/ISI-DataFest-Integration-2023-ML-Hackathon)** - Kaggle Winner
-
-</details>
-
----
-
-## 🧮 Algorithms & Theory
-
-```
-🔧 Systems Programming
-```
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| [C++ Compiler](https://github.com/DEBASMITROY2002/partial_compiler/) | C++ | Partial compiler implementation |
-| [AI Algorithms Framework](https://github.com/DEBASMITROY2002/Problem_Theory) | C++ | Classical AI search algorithms |
-| [JACK Assembler](https://github.com/DEBASMITROY2002/Assmbler_Design_JACK) | C++, ASM | Assembler design |
-| [VGA Driver](https://github.com/DEBASMITROY2002/VGA_Driver_VHDL) | VHDL | FPGA-based VGA implementation |
+<table>
+<tr>
+<td width="50%">
+<h4>🔧 C++ Compiler</h4>
+<p>Partial compiler implementation in C++</p>
+<a href="https://github.com/DEBASMITROY2002/partial_compiler/">
+<img src="https://img.shields.io/badge/View%20Repo-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>🧠 Classical AI Algorithms Framework</h4>
+<p>Generalized tool for classical AI algorithms (search, optimization)</p>
+<a href="https://github.com/DEBASMITROY2002/Problem_Theory">
+<img src="https://img.shields.io/badge/View%20Repo-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4>⚡ JACK Assembler</h4>
+<p>C++ and ASM-based assembler design</p>
+<a href="https://github.com/DEBASMITROY2002/Assmbler_Design_JACK">
+<img src="https://img.shields.io/badge/View%20Repo-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+</a>
+</td>
+<td width="50%">
+<h4>🖥️ VGA Driver in VHDL</h4>
+<p>FPGA-based VGA driver implementation</p>
+<a href="https://github.com/DEBASMITROY2002/VGA_Driver_VHDL">
+<img src="https://img.shields.io/badge/View%20Repo-543978?style=for-the-badge&logo=xilinx&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
