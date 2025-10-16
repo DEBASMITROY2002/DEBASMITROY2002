@@ -63,7 +63,7 @@
 <h4>📄 Margin Aware Adaptive Loss</h4>
 <p><i>IEEE Trans. on AI, 2023</i></p>
 <a href="https://github.com/DEBASMITROY2002/Margin-Aware-Adaptive-Weighted-Loss">
-<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="33%">
@@ -71,7 +71,7 @@
 <p><i>MICCAI, 2025</i></p>
 <p>Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification</p>
 <a href="https://github.com/DEBASMITROY2002/BIIGMA-Net">
-<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="33%">
@@ -79,7 +79,7 @@
 <p><i>ICONIP, 2024</i></p>
 <p>Multi-Headed Graph-based Attention-aided U-Net for Nuclei Segmentation</p>
 <a href="https://github.com/DEBASMITROY2002/mhga-U-Net">
-<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
