@@ -85,11 +85,17 @@
 </tr>
 </table>
 
-<div align="center">
-
-[![AI Visualization Tools](https://img.shields.io/badge/🔧%20AI%20Visualization%20%26%20Analysis%20Tools-8B5CF6?style=for-the-badge)](https://github.com/orgs/ai-vis-theory/repositories)
-
-</div>
+<table>
+<tr>
+<td width="100%">
+<h4>🔧 Visualization and Analysis Tools</h4>
+<p>Comprehensive notebooks and utilities created for research visualization and theoretical analysis</p>
+<a href="https://github.com/orgs/ai-vis-theory/repositories">
+<img src="https://img.shields.io/badge/View%20Repos-8B5CF6?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
