@@ -84,6 +84,9 @@
 </td>
 </tr>
 </table>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -210,57 +213,7 @@
 <h4>📊 Data Quality Microservices</h4>
 <p>Microservice architecture to assess data quality from multiple streams</p>
 <a href="https://github.com/ddruk-landing-zone-0/data-quality">
-<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>ion</p>
-<a href="https://github.com/orgs/med-tech-solution/repositories">
-<img src="https://img.shields.io/badge/View%20Repos-10B981?style=for-the-badge&logo=leaflet&logoColor=white"/>
-</a>
-</td>
-<td width="50%">
-<h4>🛒 Retail Video Analytics</h4>
-<p>Real-time product tracking with Apriori-based placement recommendations</p>
-<a href="https://github.com/orgs/nxhackathon/repositories">
-<img src="https://img.shields.io/badge/View%20Repos-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4>🎮 Esports Manager for Valorant</h4>
-<p>Analytics engine processing terabytes of real-time game data</p>
-<a href="https://github.com/orgs/VCT-Hacks/repositories">
-<img src="https://img.shields.io/badge/View%20Repos-FF4655?style=for-the-badge&logo=valorant&logoColor=white"/>
-</a>
-</td>
-<td width="50%">
-<h4>👔 Virtual Try-On</h4>
-<p>Fashion tech solution built on Flipkart data</p>
-<a href="https://github.com/FashionGridSolution/solution">
-<img src="https://img.shields.io/badge/View%20Repo-F5C400?style=for-the-badge&logo=flipkart&logoColor=black"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4>🏥 MedHelp.ai</h4>
-<p>Multimodal clinical chatbot using RAG for medical assistance</p>
-<a href="https://github.com/DEBASMITROY2002/MedHelp.ai_bpit">
-<img src="https://img.shields.io/badge/View%20Repo-DC143C?style=for-the-badge&logo=healthcare&logoColor=white"/>
-</a>
-</td>
-<td width="50%">
-<h4>🏅 ISI DataFest 2023 Winner</h4>
-<p>Winning solution for Kaggle ML competition</p>
-<a href="https://github.com/DEBASMITROY2002/ISI-DataFest-Integration-2023-ML-Hackathon">
-<img src="https://img.shields.io/badge/View%20Repo-FFD700?style=for-the-badge&logo=kaggle&logoColor=black"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4>📊 Data Quality Microservices</h4>
-<p>Microservice architecture to assess data quality from multiple streams</p>
-<a href="https://github.com/ddruk-landing-zone-0/data-quality">
-<img src="https://img.shields.io/badge/View%20Repo-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="50%">
@@ -278,14 +231,14 @@
 <h4>🔧 C++ Compiler</h4>
 <p>Partial compiler implementation in C++</p>
 <a href="https://github.com/DEBASMITROY2002/partial_compiler/">
-<img src="https://img.shields.io/badge/View%20Repo-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="50%">
 <h4>🧠 Classical AI Algorithms Framework</h4>
 <p>Generalized tool for classical AI algorithms (search, optimization)</p>
 <a href="https://github.com/DEBASMITROY2002/Problem_Theory">
-<img src="https://img.shields.io/badge/View%20Repo-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -294,14 +247,14 @@
 <h4>⚡ JACK Assembler</h4>
 <p>C++ and ASM-based assembler design</p>
 <a href="https://github.com/DEBASMITROY2002/Assmbler_Design_JACK">
-<img src="https://img.shields.io/badge/View%20Repo-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 <td width="50%">
 <h4>🖥️ VGA Driver in VHDL</h4>
 <p>FPGA-based VGA driver implementation</p>
 <a href="https://github.com/DEBASMITROY2002/VGA_Driver_VHDL">
-<img src="https://img.shields.io/badge/View%20Repo-543978?style=for-the-badge&logo=xilinx&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </td>
 </tr>
