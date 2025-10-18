@@ -21,9 +21,9 @@
 <div align="center">
 <h4>📄 Margin Aware Adaptive Loss</h4>
 <p><i>IEEE Trans. on AI, 2023</i></p>
-<p style="min-height: 60px;">Advanced loss function for improved model training and convergence</p>
+<p style="min-height: 60px;">Margin Aware Adaptively Weighted Loss for deep learning based imbalanced data classification</p>
 <a href="https://github.com/DEBASMITROY2002/Margin-Aware-Adaptive-Weighted-Loss">
-<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white&animation=glow"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 </td>
