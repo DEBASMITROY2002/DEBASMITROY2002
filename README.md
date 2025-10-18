@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Debasmit Roy
+# 👋 Hi, I'm Debasmit Roy ඞ
 
 ### 🚀 Software Engineer in DevOps, Cloud & AI | 🧠 Deep Learning Researcher
 
