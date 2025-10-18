@@ -14,211 +14,260 @@
 
 ### 🔬 Research
 
+<div align="center">
 <table>
 <tr>
 <td width="33%">
+<div align="center">
 <h4>📄 Margin Aware Adaptive Loss</h4>
 <p><i>IEEE Trans. on AI, 2023</i></p>
+<p style="min-height: 60px;">Advanced loss function for improved model training and convergence</p>
 <a href="https://github.com/DEBASMITROY2002/Margin-Aware-Adaptive-Weighted-Loss">
-<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white&animation=glow"/>
 </a>
+</div>
 </td>
 <td width="33%">
+<div align="center">
 <h4>🩺 BIIGMA-Net</h4>
 <p><i>MICCAI, 2025</i></p>
-<p>Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification</p>
+<p style="min-height: 60px;">Background-Invariant Independence-Guided Multi-head Attention Network for Skin Lesion Classification</p>
 <a href="https://github.com/DEBASMITROY2002/BIIGMA-Net">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="33%">
+<div align="center">
 <h4>🧬 mhga-U-Net</h4>
 <p><i>ICONIP, 2024</i></p>
-<p>Multi-Headed Graph-based Attention-aided U-Net for Nuclei Segmentation</p>
+<p style="min-height: 60px;">Multi-Headed Graph-based Attention-aided U-Net for Nuclei Segmentation</p>
 <a href="https://github.com/DEBASMITROY2002/mhga-U-Net">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 </table>
-</td>
-</tr>
-</table>
+</div>
 
+<div align="center">
 <table>
 <tr>
 <td width="100%">
+<div align="center">
 <h4>🔧 Visualization and Analysis Tools</h4>
-<p>Comprehensive notebooks and utilities created for research visualization and theoretical analysis</p>
+<p style="min-height: 60px;">Comprehensive notebooks and utilities created for research visualization and theoretical analysis</p>
 <a href="https://github.com/orgs/ai-vis-theory/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ### 🤖 LLM & Agents
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>🎨 Agent DAG Builder - Frontend</h4>
-<p>Drag & Drop Agentic Graph Builder with intuitive UI</p>
+<p style="min-height: 60px;">Drag & Drop Agentic Graph Builder with intuitive UI</p>
 <a href="https://github.com/DEBASMITROY2002/agent-dag-frontend">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
+<div align="center">
 <h4>⚙️ Agent DAG Builder - Backend</h4>
-<p>Backend orchestration system for multi-agent workflows</p>
+<p style="min-height: 60px;">Backend orchestration system for multi-agent workflows</p>
 <a href="https://github.com/ddruk-landing-zone-0/agent-dag-builder">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ### 🏆 Hackathons & Projects
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>💬 Review Analysis Engine & AI CRM</h4>
-<p>Real-time review processing with AI-powered customer relationship management</p>
+<p style="min-height: 60px;">Real-time review processing with AI-powered customer relationship management</p>
 <a href="https://github.com/orgs/devrev-elasticSearch/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
+<div align="center">
 <h4>📺 Multimodal Ad Generation</h4>
-<p>End-to-end advertisement generation based on customer behavior using GenAI</p>
+<p style="min-height: 60px;">End-to-end advertisement generation based on customer behavior using GenAI</p>
 <a href="https://github.com/orgs/elastic-openserve/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>📱 Smartwatch Travel App</h4>
-<p>Multi Agentic Integrated health and location data to optimize travel journey Analyzing signals and texts</p>
+<p style="min-height: 60px;">Multi Agentic Integrated health and location data to optimize travel journey</p>
 <a href="https://github.com/orgs/fsqhack/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
+<div align="center">
 <h4>🛡️ SafeGuard</h4>
-<p>Compliance-driven LLM platform using regulation-to-knowledge-graph conversion</p>
+<p style="min-height: 60px;">Compliance-driven LLM platform using regulation-to-knowledge-graph conversion</p>
 <a href="https://github.com/orgs/knacktohack314/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>🌍 CO2 Emission Tracker</h4>
-<p>Multi-agent solution for real-time CO2 tracking and sustainable code optimization</p>
+<p style="min-height: 60px;">Multi-agent solution for real-time CO2 tracking and sustainable code optimization</p>
 <a href="https://github.com/orgs/med-tech-solution/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
+<div align="center">
 <h4>🛒 Retail Video Analytics</h4>
-<p>Real-time product tracking with Apriori-based placement recommendations with optimised Object Detection</p>
+<p style="min-height: 60px;">Real-time product tracking with Apriori-based placement recommendations</p>
 <a href="https://github.com/orgs/nxhackathon/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>🎮 Esports Manager for Valorant</h4>
-<p>Analytics engine processing terabytes of real-time game data</p>
+<p style="min-height: 60px;">Analytics engine processing terabytes of real-time game data</p>
 <a href="https://github.com/orgs/VCT-Hacks/repositories">
 <img src="https://img.shields.io/badge/View%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
+<div align="center">
 <h4>👔 Virtual Try-On</h4>
-<p>Fashion tech solution built on Flipkart data</p>
+<p style="min-height: 60px;">Fashion tech solution built on Flipkart data</p>
 <a href="https://github.com/FashionGridSolution/solution">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>🏥 MedHelp.ai</h4>
-<p>Multimodal clinical chatbot using RAG for medical assistance</p>
+<p style="min-height: 60px;">Multimodal clinical chatbot using RAG for medical assistance</p>
 <a href="https://github.com/DEBASMITROY2002/MedHelp.ai_bpit">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
+<div align="center">
 <h4>🏅 ISI DataFest 2023 Winner</h4>
-<p>Winning solution for Kaggle ML competition</p>
+<p style="min-height: 60px;">Winning solution for Kaggle ML competition</p>
 <a href="https://github.com/DEBASMITROY2002/ISI-DataFest-Integration-2023-ML-Hackathon">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>📊 Data Quality Microservices</h4>
-<p>Microservice architecture to assess data quality from multiple streams</p>
+<p style="min-height: 60px;">Microservice architecture to assess data quality from multiple streams</p>
 <a href="https://github.com/ddruk-landing-zone-0/data-quality">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ### 🧮 Algorithms & Theory
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>🔧 C++ Compiler</h4>
-<p>Partial compiler implementation in C++</p>
+<p style="min-height: 60px;">Partial compiler implementation in C++</p>
 <a href="https://github.com/DEBASMITROY2002/partial_compiler/">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
+<div align="center">
 <h4>🧠 Classical AI Algorithms Framework</h4>
-<p>Generalized tool for classical AI algorithms (search, optimization)</p>
+<p style="min-height: 60px;">Generalized tool for classical AI algorithms (search, optimization)</p>
 <a href="https://github.com/DEBASMITROY2002/Problem_Theory">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%">
+<div align="center">
 <h4>⚡ JACK Assembler</h4>
-<p>C++ and ASM-based assembler design</p>
+<p style="min-height: 60px;">C++ and ASM-based assembler design</p>
 <a href="https://github.com/DEBASMITROY2002/Assmbler_Design_JACK">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 <td width="50%">
+<div align="center">
 <h4>🖥️ VGA Driver in VHDL</h4>
-<p>FPGA-based VGA driver implementation</p>
+<p style="min-height: 60px;">FPGA-based VGA driver implementation</p>
 <a href="https://github.com/DEBASMITROY2002/VGA_Driver_VHDL">
 <img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 </td>
 </tr>
 </table>
+</div>
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -270,8 +319,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEBASMITROY2002)
 
 </div>
-
----
-
-
-
