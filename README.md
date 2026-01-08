@@ -49,7 +49,7 @@
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="100%">
 <div align="center">
 <h4>🔬 Gemteric Regularization For VJEPA-2-AC</h4>
 <p><i>Zero-shot Robot Action Planning</i></p>
