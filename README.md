@@ -48,9 +48,6 @@
 </div>
 </td>
 </tr>
-</table>
-</div>
-
 <tr>
 <td width="33%">
 <div align="center">
