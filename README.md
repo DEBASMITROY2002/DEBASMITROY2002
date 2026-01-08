@@ -51,6 +51,21 @@
 </table>
 </div>
 
+<tr>
+<td width="33%">
+<div align="center">
+<h4>🔬 Gemteric Regularization For VJEPA-2-AC</h4>
+<p><i>Zero-shot Robot Action Planning</i></p>
+<p style="min-height: 60px;">My core hypothesis is that standard auto-regressive models suffer from drift because they treat physics as arbitrary transitions rather than structured geometric evolutions. I propose enforcing Lie Group symmetry constraints directly onto the latent predictor.</p>
+<a href="https://github.com/DEBASMITROY2002/vjepa2-low-config">
+<img src="https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
 <div align="center">
 <table>
 <tr>
